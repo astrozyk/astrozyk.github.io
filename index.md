@@ -1,4 +1,5 @@
 ---
+title: Home
 ---
 
 # Andrew's Documentation
