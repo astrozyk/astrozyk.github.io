@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: home
 title: Home
-nav_order: 4
+nav_order: 1
 ---
 
 # Andrew's Documentation
